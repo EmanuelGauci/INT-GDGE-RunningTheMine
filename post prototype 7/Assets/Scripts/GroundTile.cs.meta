@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0bbe75a2585317a4ca37d0cfe75439fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obstaclePrefab: {fileID: 3968658140100038259, guid: e41f0f5db88a3114f8bb9ffbf5854e7c, type: 3}
+  - crystalPrefab: {fileID: 2811285478932596415, guid: d785c298af88ef940859b85d9aff7d57, type: 3}
+  - goldPrefab: {fileID: 4224629715281579463, guid: a23c634a671248b498e58cb2ef6daad3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
